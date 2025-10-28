@@ -1,23 +1,41 @@
 <<<<<<< HEAD
 # Gerenciador-de-Tarefas-Java
-Um simples gerenciador de tarefas para praticar os conceitos de POO.
-=======
-## Getting Started
+📌 Gerenciador de Tarefas em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é um Gerenciador de Tarefas simples, desenvolvido com o objetivo de praticar e consolidar os principais conceitos de Programação Orientada a Objetos (POO) em Java.
 
-## Folder Structure
+🎯 Objetivo
+Criar uma aplicação funcional que permita ao usuário:
 
-The workspace contains two folders by default, where:
+Adicionar, listar e remover tarefas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Organizar atividades de forma prática e intuitiva
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Aprender e aplicar boas práticas de estruturação de código em Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🛠️ Tecnologias utilizadas
+Java (POO)
 
-## Dependency Management
+VS Code como ambiente de desenvolvimento
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
->>>>>>> edb0bff (Commit inicial do projeto Gerenciador de Tarefas em Java)
+Estrutura de diretórios com src/ e bin/
+
+Compilação manual e organização de classes
+
+📚 Aprendizados
+Durante o desenvolvimento, foram explorados conceitos como:
+
+Encapsulamento, herança e abstração
+
+Manipulação de listas e objetos
+
+Separação de responsabilidades entre classes
+
+Fluxo de execução com main e modularização
+
+🚀 Próximos passos
+Implementar persistência de dados (arquivo ou banco)
+
+Criar interface gráfica com JavaFX ou Swing
+
+Refatorar para uso com Maven ou Gradle
